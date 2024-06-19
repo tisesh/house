@@ -281,3 +281,16 @@
  .banner-info {
    color: var(--color-light-gray);
  }
+
+ .reproductions-cards {
+   display: grid;
+   grid-template-columns: repeat(3, 350px);
+   margin: 30px 30px 30px 0;
+ }
+
+ .reproductions-card {
+   display: flex;
+   flex-direction: column;
+   position: relative;
+   background-color: var(--color-light-green);
+ }
