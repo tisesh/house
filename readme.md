@@ -1,0 +1,1 @@
+This is a training project. This layout can be viewed at this link: https://www.figma.com/design/fvI9t258Wn4fd9NlqWYgzC/House-(Copy)?node-id=3-838&t=r6XZdiVUFYU68NO2-0
